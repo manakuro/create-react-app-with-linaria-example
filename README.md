@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Create react app with linaria example
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+React app with linaria example
 
 ## Available Scripts
 
